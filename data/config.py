@@ -8,8 +8,8 @@ TOKEN = str(os.getenv('TOKEN'))
 
 # Список адміністраторів бота
 ADMINS = [
-    724806849,  # мій telegram_id
-    # 5208586312  # Іра telegram_id
+    724806849,
+    # 5208586312
 ]
 
 HOST = os.getenv('HOST')
