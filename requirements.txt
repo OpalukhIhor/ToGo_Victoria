@@ -1,0 +1,4 @@
+aiogram==2.22.1
+python-dotenv==0.20.0
+gino==1.0.1
+SQLAlchemy==1.3.23
